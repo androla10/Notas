@@ -8,4 +8,4 @@ Es parecido como hace google translate, pero en vez de traducir a idioma, se bus
 
 El software será una web, que sé desarrollará en el lenguaje de programación de Java (Back end) con las librerias de struts2 que en la cual expondrá servicios RESTfull, además para la persistencia de datos se utilizará Mybatis y la base de datos sé usará Mysql Workbench  y como parte de front end angularjs.
 
-Ultima actualización 16/07/2016 16:10:00 PM
+Última actualización 16/07/2016 16:10:00 PM
