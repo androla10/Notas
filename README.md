@@ -2,7 +2,7 @@
 Repositorio de Notas de proyectos por desarrollar en lo personal.
 
 Sofware de Lectura Mejorada(SLM)
-Es un sistema que le permitirá al usuario cargar un archivo pdf, notepad, word, etc.Con el fin de que el software pueda obtener todos los sinonimos de las palabras que contenga en archivo ya nombrado.
+Es un sistema que le permitirá al usuario cargar un archivo pdf, notepad, word, etc.Con el fin de que el software pueda obtener todos los sinonimos de las palabras que contenga el archivo ya nombrado.
 
 Es parecido como hace google traductor, pero en vez de traducir a idioma, se buscará todos sus sinonimos y de forma como globo en cima de cada palabra colocarlas y abrirles un ejemplo con esa palabra relacionada, para así el lector pueda comprender correctamente lo que intenta leer.
 
